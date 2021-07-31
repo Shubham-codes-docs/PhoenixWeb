@@ -484,11 +484,11 @@
 															<div class="phone">
 																<i class="bi bi-phone"></i>
 																<h4>Call:</h4>
-																<p>+1 5589 55488 55s</p>
+																<p>+97-9709804111</p>
 															</div>
 														</div>
 													</div>
-													<div class="col-lg-8 mt-5 mt-lg-0">
+													<div class="col-lg-8 mt-5 mt-lg-0" >
 														<form
 															id="mailContact"
 															name="mailContact"

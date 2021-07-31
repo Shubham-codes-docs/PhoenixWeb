@@ -451,29 +451,9 @@
           </div>
            <div class="col-md-6 mt-4 mt-lg-0 portfolio-item filter-second">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="./assets/img/teams/photos/second/13.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Shreya Aditya</h4>
-                <span></span>
-                <p></p>
-              </div>
-            </div>
-          </div>
-           <div class="col-md-6 mt-4 mt-lg-0 portfolio-item filter-second">
-            <div class="member d-flex align-items-start">
               <div class="pic"><img src="./assets/img/teams/photos/second/14.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Sourav Kumar</h4>
-                <span></span>
-                <p></p>
-              </div>
-            </div>
-          </div>
-           <div class="col-md-6 mt-4 mt-lg-0 portfolio-item filter-second">
-            <div class="member d-flex align-items-start">
-              <div class="pic"><img src="./assets/img/teams/photos/second/15.jpg" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Suraj Kumar</h4>
                 <span></span>
                 <p></p>
               </div>
