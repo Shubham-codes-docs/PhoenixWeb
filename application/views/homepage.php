@@ -65,7 +65,7 @@
 										</div>
 									</section>
 									<!-- End Hero -->
-									<main id="main">
+									
 										<!-- ======= About Section ======= -->
 										<section id="about" class="about">
 											<div class="container" data-aos="fade-up">
@@ -88,7 +88,7 @@
 													<div class="col-lg-8 pt-4 pt-lg-0 content">
 														<h3>The Modern Airbenders.</h3>
 														<p class="fst-italic">
-															We, the students of NIT Jamshedpur Design & fabricate UAV's for
+															We, the students of NIT Jamshedpur Design & fabricate UAVs for
 															aeromodelling events like SAE Aero-design.
 														</p>
 														<div class="row">
@@ -114,16 +114,15 @@
 															</div>
 														</div>
 														<p>
-															A pioneer of Aero Designing in college, Team Phoenix is a group
-															of engineering connoisseurs committed to perform high-end
-															aircraft designing and engineering. This team was founded in the
-															year 2011 .
+														Team Phoenix, an Aero-Design and Aero-Modelling team of NIT Jamshedpur, is a group of aviation enthusiasts committed to perform high-end aircraft design with innovation and practicality. The team was founded in the year 2011, our story is unlike any other.
+                                                        Phoenix has charted the course of aerospace design and it’s been a breathtaking journey, but the best is yet to come.
 														</p>
 													</div>
 												</div>
 											</div>
 										</section>
 										<!-- End About Section -->
+									<main id="main">
 										<!-- ======= Facts Section ======= -->
 										<section id="facts" class="facts">
 											<div class="container" data-aos="fade-up">
@@ -236,7 +235,7 @@
 														data-aos="zoom-in"
 														data-aos-delay="100"
 														>
-														<div class="icon-box iconbox-blue" id='cad' >
+														<div class="icon-box iconbox-blue">
 															<div class="icon">
 																<svg
 																	width="100"
@@ -384,35 +383,23 @@
 										<!-- End Services Section -->
 										<!-- ======= Testimonials Section ======= -->
 										<section id="testimonials" class="testimonials section-bg">
-											<div class="container" data-aos="fade-up">
+											<div class="container" data-aos="slide-left">
 												<div class="section-title">
 													<h2>Team Members</h2>
 												</div>
 												<div
 										            class='items'
-													data-aos="fade-up"
+													data-aos="slide-left"
 													data-aos-delay="100"
 													>
-															<div class="testimonial-item">
+													        <div class="testimonial-item">
 																<img
-																src="./assets/img/teams/photos/second/11.jpg"
+																src="./assets/img/teams/photos/prof.jpeg"
 																class="testimonial-img"
 																alt=""
 																/>
-																<h3>Saket Gupta</h3>
-																<h4>Manager</h4>
-																
-															</div>
-														
-														<!-- End testimonial item -->
-														    <div class="testimonial-item">
-																<img
-																src="./assets/img/teams/photos/second/4.jpg"
-																class="testimonial-img"
-																alt=""
-																/>
-																<h3>Ayushi Paul</h3>
-																<h4>Vice-Captain</h4>
+																<h3>Dr. Deepak Kumar</h3>
+																<h4>Faculty Advisor</h4>
 																
 															</div>
 															<div class="testimonial-item">
@@ -425,6 +412,29 @@
 																<h4>Captain</h4>
 																
 															</div>
+															<div class="testimonial-item">
+																<img
+																src="./assets/img/teams/photos/second/4.jpg"
+																class="testimonial-img"
+																alt=""
+																/>
+																<h3>Ayushi Paul</h3>
+																<h4>Vice-Captain</h4>
+																
+															</div>
+															<div class="testimonial-item">
+																<img
+																src="./assets/img/teams/photos/second/11.jpg"
+																class="testimonial-img"
+																alt=""
+																/>
+																<h3>Saket Gupta</h3>
+																<h4>Manager</h4>	
+															</div>
+														
+														
+														    
+															
 															<div class="testimonial-item">
 																<img
 																src="./assets/img/teams/photos/second/7.jpg"
@@ -444,16 +454,7 @@
 																<h3>Prasanjeet Mishra</h3>
 																<h4>Sponsorship Head</h4>
 															</div>
-															<div class="testimonial-item">
-																<img
-																src="./assets/img/teams/photos/prof.jpeg"
-																class="testimonial-img"
-																alt=""
-																/>
-																<h3>Dr. Deepak Kumar</h3>
-																<h4>Faculty Advisor</h4>
-																
-															</div>
+															
 														
 														</div>
 														<div class="text-center" >
